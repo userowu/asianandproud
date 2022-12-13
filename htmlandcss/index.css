@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  background-image: url("imgs/bg.png");
+  background-position:center;
+  line-height: normal;
+}
+.asian-txt-1-icon,
+.image-3-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 0;
+  left: 0;
+  border-radius: 384px;
+  width: 3171px;
+  height: 2903px;
+  mix-blend-mode: normal;
+}
+.asian-txt-1-icon {
+  top: 414px;
+  left: 523px;
+  width: 814px;
+  height: 443px;
+}
+.div {
+  position: absolute;
+  top: 1204px;
+  left: 1278px;
+  font-family: var(--font-genos);
+  display: inline-block;
+  width: 227px;
+  height: 536px;
+  -webkit-text-stroke: 2px #000;
+  mix-blend-mode: normal;
+}
+.cloud-2-icon,
+.whatis-txt-1-icon {
+  position: absolute;
+  top: 0;
+  left: 368px;
+  width: 1362px;
+  height: 882px;
+  object-fit: cover;
+}
+.whatis-txt-1-icon {
+  top: 180px;
+  left: 0;
+  width: 1570px;
+  height: 391px;
+}
+.div1 {
+  position: absolute;
+  top: 640px;
+  left: 638px;
+  font-family: var(--font-genos);
+  display: inline-block;
+  width: 227px;
+  height: 536px;
+  -webkit-text-stroke: 2px #000;
+  mix-blend-mode: normal;
+}
+.megan1-1-icon,
+.megan2-1-icon {
+  position: absolute;
+  top: 128px;
+  left: 255px;
+  width: 537px;
+  height: 1335px;
+  object-fit: cover;
+}
+.megan2-1-icon {
+  top: 684px;
+  width: 1412px;
+  height: 1742px;
+}
+.i-love-aneesa {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-span {
+  text-decoration: underline;
+}
+.the-a {
+  color: inherit;
+}
+.i-love-aneesa-because-first-of {
+  position: absolute;
+  top: 584px;
+  left: 129px;
+  font-size: var(--font-size-sm);
+  color: inherit;
+  display: inline-block;
+}
+.megansuri-txt-1-icon {
+  position: absolute;
+  top: 1685px;
+  left: 458px;
+  width: 1005px;
+  height: 795px;
+  object-fit: cover;
+}
+.line-div,
+.line-div1 {
+  position: absolute;
+  top: 67.5px;
+  left: 78.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1295px;
+  height: 1px;
+}
+.line-div1 {
+  top: 162.5px;
+}
+.home-div,
+.you-are-asian-you-are-beautif {
+  position: absolute;
+  top: 100px;
+  left: 129px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  display: inline-block;
+}
+.you-are-asian-you-are-beautif {
+  left: 978px;
+}
+.what-is-asian {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2407px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+  font-family: var(--font-times-new-roman);
+}

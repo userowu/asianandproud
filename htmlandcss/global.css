@@ -1,0 +1,16 @@
+:root {
+  /* fonts */
+  --font-times-new-roman: "Times New Roman";
+  --font-genos: Genos;
+  --font-futu: FUTU;
+
+  /* font sizes */
+  --font-size-sm: 27px;
+  --font-size-base: 28px;
+  --font-size-lg: 550px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: rgba(0, 0, 0, 0);
+}

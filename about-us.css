@@ -1,0 +1,36 @@
+body {
+  background:url("imgs/silkbg.jpg");
+  background-repeat: repeat=x,repeat-y;
+
+}
+
+.nav_tab {
+  display:flex;
+  flex-wrap:nowrap;
+  margin:10px;
+  padding-left:420px;
+  line-height:15px;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+
+}
+
+.nav_tab > a {
+  width:200px;
+  text-align:center;
+}
+
+.link {
+  color:black;
+  text-shadow: 2px 2px 2px white;
+}
+
+.link:hover {
+  color:brown;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
